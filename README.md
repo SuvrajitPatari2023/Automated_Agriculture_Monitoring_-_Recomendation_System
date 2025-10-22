@@ -105,10 +105,10 @@ It combines **IoT sensors**, **cloud processing**, and **machine learning** to t
 ## 👥 Team Members
 | Name | Role | ID |
 |------|------|----|
-| 👨‍💻 **Akadeep Das** | Developer | 165 |
+| 👨‍💻 **Akadeep Das** | Project Lead | 165 |
 | 👨‍💻 **Abhishek Ray** | Developer | 162 |
 | 👨‍💻 **Avinash Kumar** | Developer | 167 |
-| 👩‍💻 **Sumitra Ray** | Project Lead | 179 |
+| 👩‍💻 **Sumitra Ray** | Developer | 179 |
 
 📘 **Department:** CSE  
 📍 **Section:** C  
