@@ -1,3 +1,10 @@
+# Welcome to our project
+
+## Project info
+> A smart system for improving blood availability, donor communication, and emergency response — connecting **hospitals**, **blood banks**, and **donors** in real time.
+
+**URL**: 
+
 # 👋 Meet Our Team
 
 > The creative minds behind **RedLine** 🩸🚑
